@@ -27,12 +27,3 @@ int* nextGreaterElement(int* nums1, int nums1Size, int* nums2, int nums2Size, in
     }
     return result;
 }
-
-void __attribute__((destructor)) done(){
-    FILE *fp = fopen("display_runtime.txt","w");
-    if(fp)
-    {
-        fputs("0",fp);
-        fclose(fp);
-    }
-}
