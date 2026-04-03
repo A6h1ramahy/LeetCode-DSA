@@ -33,12 +33,3 @@ struct ListNode* removeElements(struct ListNode* head, int val) {
     }
     return head;
 }
-
-void __attribute__((destructor)) done(){
-    FILE *fp = fopen("display_runtime.txt","w");
-    if(fp)
-    {
-        fputs("0",fp);
-        fclose(fp);
-    }
-}
