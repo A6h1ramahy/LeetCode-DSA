@@ -73,12 +73,3 @@ int* survivedRobotsHealths(int* positions, int positionsSize,
     *returnSize = count;
     return result;
 }
-
-void __attribute__((destructor)) done(){
-    FILE *fp = fopen("display_runtime.txt","w");
-    if(fp)
-    {
-        fputs("0",fp);
-        fclose(fp);
-    }
-}
