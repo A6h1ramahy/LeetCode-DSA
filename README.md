@@ -48,4 +48,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
