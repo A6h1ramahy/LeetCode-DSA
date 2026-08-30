@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
