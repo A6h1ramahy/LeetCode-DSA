@@ -5,8 +5,8 @@ int calculate(char* s) {
     int num = 0;
     char op = '+';
 
-    for (int i = 0; i <= n; i++) {
-
+    for (int i = 0; i <= n; i++) 
+    {
         if (i < n && s[i] >= '0' && s[i] <= '9') {
             num = num * 10 + (s[i] - '0');
         }
