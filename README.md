@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0389-find-the-difference](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
@@ -81,4 +83,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
