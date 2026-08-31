@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0079-word-search](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0079-word-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
