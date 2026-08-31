@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0389-find-the-difference](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
