@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/3903-smallest-stable-index-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
