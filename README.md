@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0204-count-primes](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0204-count-primes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0258-add-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0258-add-digits) |
 ## Greedy
 |  |
@@ -120,4 +123,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/3903-smallest-stable-index-i) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
