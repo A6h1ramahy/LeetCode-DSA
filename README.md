@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0227-basic-calculator-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0258-add-digits) |
 | [3870-count-commas-in-range](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Simulation
