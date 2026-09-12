@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0119-pascals-triangle-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0204-count-primes](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0204-count-primes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
