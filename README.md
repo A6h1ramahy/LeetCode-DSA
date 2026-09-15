@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0299-bulls-and-cows](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0299-bulls-and-cows) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
