@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0079-word-search](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0147-insertion-sort-list](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0147-insertion-sort-list) |
 | [0389-find-the-difference](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
