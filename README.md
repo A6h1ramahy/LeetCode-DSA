@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0119-pascals-triangle-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0204-count-primes](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0204-count-primes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/3903-smallest-stable-index-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0389-find-the-difference](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,10 +134,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0338-counting-bits) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0069-sqrtx) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Newton's Method
 |  |
 | ------- |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/A6h1ramahy/LeetCode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Geometry
 |  |
 | ------- |
